@@ -1,0 +1,11 @@
+C:\Users\schulzs\source\repos\Edith\Edith\bin\Debug\Edith.exe.config
+C:\Users\schulzs\source\repos\Edith\Edith\bin\Debug\Edith.exe
+C:\Users\schulzs\source\repos\Edith\Edith\bin\Debug\Edith.pdb
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.csproj.AssemblyReference.cache
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.csproj.SuggestedBindingRedirects.cache
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.Edith.resources
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.Properties.Resources.resources
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.csproj.GenerateResource.cache
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.csproj.CoreCompileInputs.cache
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.exe
+C:\Users\schulzs\source\repos\Edith\Edith\obj\Debug\Edith.pdb
